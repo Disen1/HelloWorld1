@@ -27,6 +27,8 @@ public class HelloWorld1 {
         if(s>5 && s <10)
         {
             System.out.println("It is also between 5 and  10 exclusive.");
+            System.out.println("Hi");
+            System.out.println("this is a change");
         }
     
  
